@@ -48,7 +48,7 @@ __meta__ = {
 }
 
 [node name="ButtonNW" type="Button" parent="PanelLTR/GridContainer"]
-margin_right = 77.3438
+margin_right = 77.0
 margin_bottom = 23.0
 custom_fonts/font = ExtResource( 1 )
 custom_font_sizes/font_size = 12
@@ -57,7 +57,7 @@ script = null
 
 [node name="ButtonN" type="Button" parent="PanelLTR/GridContainer"]
 margin_left = 81.0
-margin_right = 128.719
+margin_right = 128.0
 margin_bottom = 23.0
 custom_fonts/font = ExtResource( 1 )
 custom_font_sizes/font_size = 12
@@ -66,7 +66,7 @@ script = null
 
 [node name="ButtonNE" type="Button" parent="PanelLTR/GridContainer"]
 margin_left = 132.0
-margin_right = 204.859
+margin_right = 204.0
 margin_bottom = 23.0
 custom_fonts/font = ExtResource( 1 )
 custom_font_sizes/font_size = 12
@@ -114,7 +114,7 @@ script = null
 [node name="ButtonS" type="Button" parent="PanelLTR/GridContainer"]
 margin_left = 81.0
 margin_top = 54.0
-margin_right = 128.016
+margin_right = 128.0
 margin_bottom = 77.0
 custom_fonts/font = ExtResource( 1 )
 custom_font_sizes/font_size = 12
@@ -124,7 +124,7 @@ script = null
 [node name="ButtonSE" type="Button" parent="PanelLTR/GridContainer"]
 margin_left = 132.0
 margin_top = 54.0
-margin_right = 204.156
+margin_right = 204.0
 margin_bottom = 77.0
 custom_fonts/font = ExtResource( 1 )
 custom_font_sizes/font_size = 12
@@ -149,7 +149,6 @@ __meta__ = {
 }
 
 [node name="ButtonPrev" type="Button" parent="PanelLTR/PanelLocale/HBoxContainer"]
-margin_left = -0.34375
 margin_right = 63.0
 margin_bottom = 34.0
 custom_fonts/font = ExtResource( 1 )
@@ -158,7 +157,7 @@ text = "Previous"
 script = null
 
 [node name="ButtonNext" type="Button" parent="PanelLTR/PanelLocale/HBoxContainer"]
-margin_left = 66.2656
+margin_left = 67.0
 margin_right = 107.0
 margin_bottom = 34.0
 custom_fonts/font = ExtResource( 1 )
@@ -208,7 +207,7 @@ script = null
 
 [node name="ButtonNE" type="Button" parent="PanelRTL/GridContainer"]
 margin_left = 132.0
-margin_right = 218.0
+margin_right = 211.0
 margin_bottom = 27.0
 custom_fonts/font = ExtResource( 1 )
 custom_font_sizes/font_size = 12
@@ -237,7 +236,7 @@ script = null
 [node name="ButtonE" type="Button" parent="PanelRTL/GridContainer"]
 margin_left = 132.0
 margin_top = 31.0
-margin_right = 218.0
+margin_right = 211.0
 margin_bottom = 58.0
 custom_fonts/font = ExtResource( 1 )
 custom_font_sizes/font_size = 12
@@ -245,7 +244,6 @@ text = "الغرب"
 script = null
 
 [node name="ButtonSW" type="Button" parent="PanelRTL/GridContainer"]
-margin_left = -0.59375
 margin_top = 62.0
 margin_right = 80.0
 margin_bottom = 89.0
@@ -255,7 +253,7 @@ text = "الجنوب الشرقي"
 script = null
 
 [node name="ButtonS" type="Button" parent="PanelRTL/GridContainer"]
-margin_left = 83.0469
+margin_left = 84.0
 margin_top = 62.0
 margin_right = 128.0
 margin_bottom = 89.0
@@ -265,9 +263,9 @@ text = "الجنوب"
 script = null
 
 [node name="ButtonSE" type="Button" parent="PanelRTL/GridContainer"]
-margin_left = 131.734
+margin_left = 132.0
 margin_top = 62.0
-margin_right = 218.0
+margin_right = 211.0
 margin_bottom = 89.0
 custom_fonts/font = ExtResource( 1 )
 custom_font_sizes/font_size = 12
@@ -308,7 +306,6 @@ __meta__ = {
 }
 
 [node name="ButtonBack" type="Button" parent="HBoxContainer"]
-margin_left = -0.921875
 margin_right = 40.0
 margin_bottom = 40.0
 custom_fonts/font = ExtResource( 1 )
@@ -317,7 +314,7 @@ text = "Back"
 script = null
 
 [node name="ButtonFwd" type="Button" parent="HBoxContainer"]
-margin_left = 43.2188
+margin_left = 44.0
 margin_right = 105.0
 margin_bottom = 40.0
 custom_fonts/font = ExtResource( 1 )
